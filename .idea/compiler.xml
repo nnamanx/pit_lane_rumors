@@ -7,21 +7,13 @@
         <processorPath useClasspath="false">
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.30/f195ee86e6c896ea47a1d39defbe20eb59cd149d/lombok-1.18.30.jar" />
         </processorPath>
-      </profile>
-      <profile name="Gradle Imported" enabled="true">
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="false">
-          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.22/9c08ea24c6eb714e2d6170e8122c069a0ba9aacf/lombok-1.18.22.jar" />
-        </processorPath>
+        <module name="pit_lane_rumors.main" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="as1-spring-boot-jpa-app-nnamanx" target="17" />
       <module name="as1-spring-boot-jpa-app-nnamanx.main" target="17" />
       <module name="as1-spring-boot-jpa-app-nnamanx.test" target="17" />
-      <module name="pit_lane_rumors" target="17" />
-      <module name="pit_lane_rumors.main" target="17" />
-      <module name="pit_lane_rumors.test" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
