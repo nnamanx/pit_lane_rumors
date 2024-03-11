@@ -10,4 +10,5 @@ public class PitLaneRumorsApplication {
         SpringApplication.run(PitLaneRumorsApplication.class, args);
     }
 
+
 }
